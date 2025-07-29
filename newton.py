@@ -87,6 +87,8 @@ a = float(input("输入系数 a: "))
 b = float(input("输入系数 b: "))
 c = float(input("输入系数 c: "))
 
+print("hello world")
+
 # 计算并显示结果
 roots = find_roots(a, b, c)
 if not roots:
